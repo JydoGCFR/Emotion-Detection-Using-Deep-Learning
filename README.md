@@ -1,4 +1,4 @@
-# **Emotion Detection Using Deep Learning**
+# **Emotion Detection Using Deep Learning Model**
 
 **Objective**
 
